@@ -79,7 +79,7 @@ produces:
 ```dart
 import 'package:flutter/gestures.dart';
 import 'package:flutter/material.dart';
-import 'package:inline_rich_text_span/widget/inline_rich_text_span_widget.dart';
+import 'package:inline_rich_text_span/inline_rich_text_span.dart';
 
 class InteractiveTextExample extends StatefulWidget {
   const InteractiveTextExample({super.key});
