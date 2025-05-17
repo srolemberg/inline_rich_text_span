@@ -1,6 +1,6 @@
 name: inline_rich_text_span
 description: "This package provides InlineRichTextSpanWidget, a convenient wrapper around Flutter's RichText core. It's designed to make constructing complex text layouts with multiple styles more straightforward by accepting InlineSpans directly in its children list."
-version: 0.0.1
+version: 1.0.0
 homepage: none
 
 environment:
