@@ -72,7 +72,7 @@ class MyTextWidget extends StatelessWidget {
 
 produces:
 
-<img src="assets/example1.png" alt="Example 1" width=50%/>
+<img src="https://github.com/srolemberg/inline_rich_text_span/raw/master/assets/example1.png" alt="Example 1" width=50%/>
 
 ### Example with Interactive Text (Tap Gesture)
 
@@ -145,7 +145,7 @@ class _InteractiveTextExampleState extends State<InteractiveTextExample> {
 
 result:
 
-<img src="assets/example2.gif" alt="Example 1" width=50%/>
+<img src="https://github.com/srolemberg/inline_rich_text_span/raw/master/assets/example2.gif" alt="Example 2" width=50%/>
 
 
 ### License
